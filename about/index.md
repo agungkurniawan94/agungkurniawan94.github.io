@@ -9,8 +9,8 @@ date: 2016-03-21
 ## INFO
 * Nama : AGUNG KURNIAWAN
 * Nim : 11353104377
-* Jurusan : <a href="http://uin-suska.ac.id/fakultas/fakultas-sains-dan-teknologi/jurusan-sistem-informasi/"> Sistem informasi </a>
-* Fakultas : <a href="http://uin-suska.ac.id/fakultas/fakultas-sains-dan-teknologi/">Sains dan Teknologi</a>
+* Jurusan : <a href="http://sif.uin-suska.ac.id/"> Sistem informasi </a>
+* Fakultas : <a href="http://fst.uin-suska.ac.id/">Sains dan Teknologi</a>
 * Universitas : <a href="http://uin-suska.ac.id">UIN SUSKA RIAU</a>
 * Minat : Networking
 * Idola : Himawan Nugroho
